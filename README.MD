@@ -1,0 +1,8 @@
+#APLICACION DEL CLIMA- CURSO NODE
+
+RECUERDEN EJECUTAR ```NPM -INSTALL``` PARA LAS LIBRERIAS
+
+# EJEMPLO : 
+```
+node app -d "Barcelona España"
+```
